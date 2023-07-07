@@ -1,1 +1,4 @@
+#Mushrooms
+Hand imputed missing values using label and categorical encoding in this categorical data set. 
 
+Used Sklearn’s KNN algorithm to successfully predict mushroom classification from several attributes. 
